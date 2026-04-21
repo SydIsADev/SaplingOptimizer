@@ -1,0 +1,13 @@
+🍃 Sapling Optimizer — Plugin Description
+Sapling Optimizer is a lightweight performance plugin designed to keep your Minecraft server running smooth, even under heavy load.
+It continuously monitors your server’s TPS (ticks per second) and automatically reacts when performance starts to drop. Instead of forcing permanent changes, it intelligently adapts in real time—only activating optimizations when they are actually needed.
+When the server is running normally, everything stays fully vanilla and untouched. But when TPS drops below safe levels, Sapling Optimizer steps in to reduce lag by optimizing entities, chunks, and particle effects.
+It helps improve performance by:
+Managing mob AI in unloaded or distant areas
+Reducing unnecessary entity processing during lag spikes
+Stacking large groups of similar entities to reduce strain (e.g. Bamboo [x300])
+Optimizing chunk behavior to prevent unnecessary load
+Limiting excessive particle effects during heavy server stress
+All optimizations are designed to be safe for gameplay, meaning players nearby are never affected, and important entities like bosses are never altered.
+Sapling Optimizer is built for survival SMP servers that want better performance without changing the core gameplay experience.
+Simple, automatic, and efficient—just install it and let it handle the lag for you.
